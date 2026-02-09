@@ -6,9 +6,6 @@ Web aplikasi untuk membuat GitHub repository dan upload multiple file sekaligus 
 
 Token GitHub dan username Anda sudah tersimpan di backend (`server.js`), sehingga lebih aman dan tidak terekspos di frontend.
 
-**Token:** `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`  
-**Username:** `RXSofc`
-
 ## 📋 Cara Instalasi
 
 ### 1. Install Dependencies
